@@ -1,2 +1,6 @@
+============
+CHARACTERS
+============
+
 Details about each character.
 Added a new character.
