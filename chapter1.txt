@@ -1,6 +1,0 @@
-===========
-CHAPTER 1
-===========
-
-Added first line for chapter1.
-added a new line.
